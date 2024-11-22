@@ -16,7 +16,7 @@ Procedure
 3.	Handling Null Values: All null values were replaced with 0.
 4.	Data Cleaning: The cleaned and formatted data was then loaded into Power BI.
 5.	Exploratory Data Analysis: Conducted exploratory analysis and created visualizations using an interactive dashboard.
-6.	
+	
 Problems Analysed
 The analyses aimed to answer the following questions:
 •	What is the average life expectancy worldwide?
