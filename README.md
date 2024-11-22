@@ -1,4 +1,4 @@
-[Findings on the Life Expectancy Data.docx](https://github.com/user-attachments/files/17868630/Findings.on.the.Life.Expectancy.Data.docx)
+[About This Project- Life Expectancy Data.docx](https://github.com/user-attachments/files/17868630/Findings.on.the.Life.Expectancy.Data.docx)
 
 Introduction
 This data analysis project seeks to explore life expectancy trends across various countries using data sourced from the World Health Organization (WHO). This report summarizes key findings derived from the analysis. By utilizing tools like Power BI and Power Query, I examined global life expectancy trends and the key factors influencing these figures.
@@ -41,6 +41,8 @@ This analysis sheds light on global health trends and highlights areas requiring
 
 Recommendations
 •	Strengthen Healthcare Systems: Invest in healthcare infrastructure, especially in low-income countries, to ensure equitable access to medical services.
+
 •	Promote Preventative Care: Implement vaccination programs and health education initiatives to reduce disease prevalence and improve overall health outcomes.
+
 •	Address Socio-Economic Disparities: Tackle underlying socio-economic issues contributing to health disparities, including poverty, education, and nutrition.
 
