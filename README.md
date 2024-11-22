@@ -27,9 +27,13 @@ The analyses aimed to answer the following questions:
 Findings
 The analysis yielded the following insights:
 •	Average Life Expectancy: The average life expectancy across various countries is 69 years.
+
 •	Highest Life Expectancy: Japan, in the East Asia region, holds the highest life expectancy at around 84 years. This can be largely attributed to its advanced healthcare system, healthy diet, and active lifestyle. Other countries with high life expectancies include Sweden, Switzerland, and Iceland, averaging between 82 and 83 years.
+
 •	Lowest Life Expectancy: Sub-Saharan African countries such as Sierra Leone, Chad, and Nigeria report the lowest life expectancies, averaging around 54 to 57 years. Contributing factors include limited healthcare access, high infant mortality rates, and the prevalence of infectious diseases.
+
 •	Trend Analysis: Overall life expectancy has generally risen from 2000 to 2015, despite a notable decline in 2013, likely due to health crises and regional conflicts. While regions like Sub-Saharan Africa are showing gradual improvements, significant challenges remain.
+
 •	Mortality Rate: Countries with higher life expectancies tend to have lower infant mortality rates. For example, Japan’s infant mortality rate is significantly lower than India’s, which has the highest at 24.56%. In contrast, Sub-Saharan Africa experiences high adult mortality, averaging 218,000 deaths across the region. Reducing infant mortality is critical for enhancing overall life expectancy.
 
 Conclusion
